@@ -8,7 +8,7 @@ This course was supplemented by [_The Nature of Code_ book](https://natureofcode
 
 ## Experiment 01: Brushstroke
 
-[ [Source Code](https://github.com/jackbdu/nature-of-code-experiments/tree/main/01-brushstroke) ]
+[ [Source Code](https://github.com/jackbdu/nature-of-code-experiments/tree/main/01-brushstroke/src) ]
 
 | ![](assets/20250128-daily-experiment-colorful-noise-walk-1080p-frame-0001024.png) | ![](assets/20250129-daily-experiment-colorful-spiral-noise-ribbon-1080p-frame-0000048.png) | ![](assets/20250130-daily-experiment-colorful-brushstroke-simplex-noise-1080p@60fps-still.png) |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
