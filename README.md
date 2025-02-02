@@ -4,7 +4,7 @@
 
 This repository showcases experiments I developed in C++ using openFrameworks for [_The Nature of Code_ course](https://github.com/nature-of-code/noc-syllabus-s25) at NYU, taught by [Dan Shiffman](https://thecodingtrain.com/about). The course was supplemented by [_The Nature of Code_ book](https://natureofcode.com/) and its accompanying [video tutorials](https://thecodingtrain.com/tracks/the-nature-of-code-2).
 
-If you would like to run the sketches in this repository, see instructions near the end of the page.
+If you would like to run the openFrameworks sketches, see [instructions](#how-to-run-openframeworks-sketches) near the end of the page.
 
 ## Experiment 01: Brushstroke
 
