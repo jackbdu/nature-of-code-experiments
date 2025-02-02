@@ -6,6 +6,7 @@ const float BRUSH_LENGTH = 1.0;
 const float BRUSH_RADIUS = 0.05;
 const float BRUSH_TAIL = 0.1;
 const float CANVAS_PADDING = 0.2;
+const float ANIMATION_RATE = 0.01;
 
 //--------------------------------------------------------------
 void ofApp::setup() {
@@ -26,7 +27,8 @@ void ofApp::draw() {
   ofTranslate(ofGetWidth() * 0.5, ofGetHeight() * 0.5, -refSize * 0.5);
   for (float t = 0; t < BRUSH_DETAILS; ++t) {
     const float progress = t / BRUSH_DETAILS;
-    const float noiseOffset = progress * BRUSH_LENGTH + ofGetFrameNum() / 100.;
+    const float noiseOffset =
+        progress * BRUSH_LENGTH + ofGetFrameNum() * ANIMATION_RATE;
     const float x = ofMap(ofNoise(noiseOffset, 1111), 0, 1,
                           -ofGetWidth() * 0.5 + canvasPadding,
                           ofGetWidth() * 0.5 - canvasPadding);
