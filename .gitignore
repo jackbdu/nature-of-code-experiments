@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Xcode specific
+*.xcodeproj
+*.compiler_flags
