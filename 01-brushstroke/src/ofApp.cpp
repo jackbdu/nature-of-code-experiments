@@ -1,12 +1,12 @@
 #include "ofApp.h"
 
-const ofColor BACKGROUND_COLOR = ofColor(0);
-const float BRUSH_DETAILS = 1024;
-const float BRUSH_LENGTH = 1.0;
-const float BRUSH_RADIUS = 0.05;
-const float BRUSH_TAIL = 0.1;
-const float CANVAS_PADDING = 0.2;
-const float ANIMATION_RATE = 0.01;
+const ofColor ofApp::BACKGROUND_COLOR = ofColor(0);
+const float ofApp::BRUSH_DETAILS = 1024;
+const float ofApp::BRUSH_LENGTH = 1.0;
+const float ofApp::BRUSH_RADIUS = 0.05;
+const float ofApp::BRUSH_TAIL = 0.1;
+const float ofApp::CANVAS_PADDING = 0.2;
+const float ofApp::ANIMATION_RATE = 0.01;
 
 //--------------------------------------------------------------
 void ofApp::setup() {

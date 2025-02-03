@@ -23,6 +23,14 @@ public:
   void dragEvent(ofDragInfo dragInfo) override;
   void gotMessage(ofMessage msg) override;
 
+  static const ofColor BACKGROUND_COLOR;
+  static const float BRUSH_DETAILS;
+  static const float BRUSH_LENGTH;
+  static const float BRUSH_RADIUS;
+  static const float BRUSH_TAIL;
+  static const float CANVAS_PADDING;
+  static const float ANIMATION_RATE;
+
   float refSize;
   float brushRadius;
   float canvasPadding;
