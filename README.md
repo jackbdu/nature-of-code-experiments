@@ -14,6 +14,14 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
 | [01/28/2025](https://www.instagram.com/p/DFZj0vcuX0-/)                            | [01/29/2025](https://www.instagram.com/p/DFcIGe-xZjq/)                                     | [01/30/2025](https://www.instagram.com/p/DFeanW4Mh87/)                                         |
 
+## Experiment 02: Pipes
+
+[ [Source Code](https://github.com/jackbdu/nature-of-code-experiments/tree/main/02-pipes/src) ]
+
+| ![](assets/20250131-daily-experiment-random-walk-3d-pipes-1080p-frame-0000993.png) | ![](assets/20250201-daily-experiment-random-walk-3d-pipes-colorful-1080p-frame-0000616.png) | ![](assets/20250202-daily-experiment-random-walk-3d-pipes-improved-1080p-frame-0002978.png) |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [01/31/2025](https://www.instagram.com/p/DFjJCMAsusW/)                             | [02/01/2025](https://www.instagram.com/p/DFk99tixlxG/)                                      | [02/02/2025](https://www.instagram.com/p/DFmW8UEssqc/)                                      |
+
 ## How to Run openFrameworks Sketches
 
 1. Download openFrameworks v0.12.0 for your desired platform (e.g. `osx` for macOS) from the [openFrameworks download page](https://openframeworks.cc/download/) and unzip it. You should see a folder like `of_v0.12.0_platform_release/` (e.g. `of_v0.12.0_osx_release/` for macOS).
