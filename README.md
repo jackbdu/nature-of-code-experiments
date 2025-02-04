@@ -2,9 +2,9 @@
 
 [ [Project Page](https://jackbdu.com/nature-of-code-experiments/) \| [GitHub Repository](https://github.com/jackbdu/nature-of-code-experiments/) \| [About Me](https://jackbdu.com/about/) ]
 
-This repository showcases experiments I developed in C++ using openFrameworks for [_The Nature of Code_ course](https://github.com/nature-of-code/noc-syllabus-s25) at NYU, taught by [Dan Shiffman](https://thecodingtrain.com/about). The course was supplemented by [_The Nature of Code_ book](https://natureofcode.com/) and its accompanying [video tutorials](https://thecodingtrain.com/tracks/the-nature-of-code-2).
+This repository showcases creative coding experiments I developed in C++ using openFrameworks for [_The Nature of Code_ course](https://github.com/nature-of-code/noc-syllabus-s25) at NYU, taught by [Dan Shiffman](https://thecodingtrain.com/about). The course was supplemented by [_The Nature of Code_ book](https://natureofcode.com/) and its accompanying [video tutorials](https://thecodingtrain.com/tracks/the-nature-of-code-2).
 
-If you would like to run the openFrameworks sketches, see [instructions](#how-to-run-openframeworks-sketches) near the end of the page.
+If you would like to run the openFrameworks sketches, see [instructions](#how-to-run-openframeworks-sketches) near the end of this page.
 
 ## Experiment 01: Brushstroke
 
@@ -18,9 +18,11 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 
 [ [Source Code](https://github.com/jackbdu/nature-of-code-experiments/tree/main/02-pipes/src) ]
 
-| ![](assets/20250131-daily-experiment-random-walk-3d-pipes-1080p-frame-0000993.png) | ![](assets/20250201-daily-experiment-random-walk-3d-pipes-colorful-1080p-frame-0000616.png) | ![](assets/20250202-daily-experiment-random-walk-3d-pipes-improved-1080p-frame-0002978.png) |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [01/31/2025](https://www.instagram.com/p/DFjJCMAsusW/)                             | [02/01/2025](https://www.instagram.com/p/DFk99tixlxG/)                                      | [02/02/2025](https://www.instagram.com/p/DFmW8UEssqc/)                                      |
+| ![](assets/20250131-daily-experiment-random-walk-3d-pipes-1080p-frame-0000993.png)       | ![](assets/20250201-daily-experiment-random-walk-3d-pipes-colorful-1080p-frame-0000616.png) | ![](assets/20250202-daily-experiment-random-walk-3d-pipes-improved-1080p-frame-0002978.png) |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [01/31/2025](https://www.instagram.com/p/DFjJCMAsusW/)                                   | [02/01/2025](https://www.instagram.com/p/DFk99tixlxG/)                                      | [02/02/2025](https://www.instagram.com/p/DFmW8UEssqc/)                                      |
+| ![](assets/20250203-daily-experiment-random-walk-pipes-rotation-1080p-frame-0003422.png) | ![]()                                                                                       | ![]()                                                                                       |
+| [02/03/2025](https://www.instagram.com/p/DFoIg94xBFy/?img_index=1)                       | []()                                                                                        | []()                                                                                        |
 
 ## How to Run openFrameworks Sketches
 
