@@ -41,8 +41,8 @@ void ofApp::setup() {
 
   // INITIALIZATIONS
 
-  directions = {0, 1, 2, 3, 4, 5};
-  direction = 0;
+  directions = {-1, -1, -1, 1, 1, 1, 0, 0};
+  pdirection = ofVec3f{0, 0, 0};
   offscreenFrameCount = 0;
 
   ofSetRandomSeed(seed);
@@ -90,37 +90,17 @@ void ofApp::update() {
     }
     const float segmentLength =
         ofRandomUniform(minSegmentLength, maxSegmentLength);
+    ofVec3f joint;
     ofRandomize(directions);
-    for (size_t d = 0; d < directions.size(); ++d) {
-      // avoid reversing
-      if (direction != directions.size() - 1 - directions[d]) {
-        direction = directions[d];
+    for (size_t d = 2; d < directions.size(); ++d) {
+      direction = ofVec3f(directions[d - 2], directions[d - 1], directions[d]);
+      joint = lastJoint + direction.normalize() * segmentLength;
+      if (direction != -pdirection) {
+        pdirection = direction;
         break;
       }
     }
-    ofVec3f normalizedSegment;
-    // sum of opposite directions equals 5
-    switch (direction) {
-    case 0:
-      normalizedSegment = ofVec3f{1, 0, 0};
-      break;
-    case 1:
-      normalizedSegment = ofVec3f{0, 1, 0};
-      break;
-    case 2:
-      normalizedSegment = ofVec3f{0, 0, 1};
-      break;
-    case 3:
-      normalizedSegment = ofVec3f{0, 0, -1};
-      break;
-    case 4:
-      normalizedSegment = ofVec3f{0, -1, 0};
-      break;
-    case 5:
-      normalizedSegment = ofVec3f{-1, 0, 0};
-      break;
-    }
-    pipes.back().push_back(lastJoint + normalizedSegment * segmentLength);
+    pipes.back().push_back(joint);
   }
   ofBackground(0);
 }
@@ -149,7 +129,7 @@ void ofApp::draw() {
         ofPushMatrix();
         ofTranslate(segment1.x / 2, segment1.y / 2, segment1.z / 2);
         const float rotationAngle =
-            segment1.angleRad(defaultCylinderOrientation);
+            -segment1.angleRad(defaultCylinderOrientation);
         const ofVec3f rotationAxis =
             segment1.getCrossed(defaultCylinderOrientation);
         ofRotateRad(rotationAngle, rotationAxis.x, rotationAxis.y,

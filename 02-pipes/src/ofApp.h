@@ -28,6 +28,8 @@ public:
   vector<vector<ofVec3f>> pipes;
   vector<ofColor> pipeColors;
   vector<int> directions;
+  ofVec3f pdirection;
+  ofVec3f direction;
   float refSize;
   float pipeRadiusFactor;
   float jointRadiusFactor;
@@ -48,7 +50,6 @@ public:
   int updateIntervalFramesNum;
   int offscreenTimeoutFramesNum;
   int offscreenFrameCount;
-  int direction;
   int maxPipesNum;
   int seed;
 };
