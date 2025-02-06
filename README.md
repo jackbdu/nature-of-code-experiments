@@ -18,11 +18,11 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 
 [ [Source Code](https://github.com/jackbdu/nature-of-code-experiments/tree/main/02-pipes/src) ]
 
-| ![](assets/20250131-daily-experiment-random-walk-3d-pipes-1080p-frame-0000993.png)       | ![](assets/20250201-daily-experiment-random-walk-3d-pipes-colorful-1080p-frame-0000616.png) | ![](assets/20250202-daily-experiment-random-walk-3d-pipes-improved-1080p-frame-0002978.png) |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [01/31/2025](https://www.instagram.com/p/DFjJCMAsusW/)                                   | [02/01/2025](https://www.instagram.com/p/DFk99tixlxG/)                                      | [02/02/2025](https://www.instagram.com/p/DFmW8UEssqc/)                                      |
-| ![](assets/20250203-daily-experiment-random-walk-pipes-rotation-1080p-frame-0003422.png) | ![]()                                                                                       | ![]()                                                                                       |
-| [02/03/2025](https://www.instagram.com/p/DFoIg94xBFy/?img_index=1)                       | []()                                                                                        | []()                                                                                        |
+| ![](assets/20250131-daily-experiment-random-walk-3d-pipes-1080p-frame-0000993.png)       | ![](assets/20250201-daily-experiment-random-walk-3d-pipes-colorful-1080p-frame-0000616.png)      | ![](assets/20250202-daily-experiment-random-walk-3d-pipes-improved-1080p-frame-0002978.png)                  |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| [01/31/2025](https://www.instagram.com/p/DFjJCMAsusW/)                                   | [02/01/2025](https://www.instagram.com/p/DFk99tixlxG/)                                           | [02/02/2025](https://www.instagram.com/p/DFmW8UEssqc/)                                                       |
+| ![](assets/20250203-daily-experiment-random-walk-pipes-rotation-1080p-frame-0003422.png) | ![](assets/20250204-daily-experiment-random-walk-pipes-forming-a-sphere-1080p-frame-0002472.png) | ![](assets/20250205-daily-experiment-random-walk-pipes-forming-a-sphere-fewer-pipes-1080p-frame-0003267.png) |
+| [02/03/2025](https://www.instagram.com/p/DFoIg94xBFy/?img_index=1)                       | [02/04/2025](https://www.instagram.com/p/DFrQgleskNC/)                                           | [02/05/2025](https://www.instagram.com/p/DFuHslEsNso/)                                                       |
 
 ## How to Run openFrameworks Sketches
 
