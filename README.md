@@ -24,6 +24,14 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 | ![](assets/20250203-daily-experiment-random-walk-pipes-rotation-1080p-frame-0003422.png) | ![](assets/20250204-daily-experiment-random-walk-pipes-forming-a-sphere-1080p-frame-0002472.png) | ![](assets/20250205-daily-experiment-random-walk-pipes-forming-a-sphere-fewer-pipes-1080p-frame-0003267.png) |
 | [02/03/2025](https://www.instagram.com/p/DFoIg94xBFy/?img_index=1)                       | [02/04/2025](https://www.instagram.com/p/DFrQgleskNC/)                                           | [02/05/2025](https://www.instagram.com/p/DFuHslEsNso/)                                                       |
 
+## Experiment 03: Windows
+
+| ![](assets/20250206-daily-experiment-window-bouncing-around-1080p-frame-1.png)     | ![](assets/20250207-daily-experiment-bouncing-window-with-gravity-1080p-frame-5.png) | ![](assets/20250208-daily-experiment-bouncing-window-with-trace-1080p-frame-3.png)    |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| [02/06/2025](https://www.instagram.com/p/DFzPxnZsLVy)                              | [02/07/2025](https://www.instagram.com/p/DF0nXzbxmJd/)                               | [02/08/2025](https://www.instagram.com/p/DF2HbmKx9lN/)                                |
+| ![](assets/20250209-daily-experiment-window-attracted-to-cursor-1080p-frame-4.png) | ![](assets/20250210-daily-experiment-two-bodies-trailing-windows-1080p-frame-3.png)  | ![](assets/20250211-daily-experiment-three-bodies-trailing-windows-1080p-frame-5.png) |
+| [02/09/2025](https://www.instagram.com/p/DF4WiEhs_yw/)                             | [02/10/2025](https://www.instagram.com/p/DF6iVx5MUPm/)                               | [02/11/2025](https://www.instagram.com/p/DF8VawWR6Nu/)                                |
+
 ## How to Run openFrameworks Sketches
 
 1. Download openFrameworks v0.12.0 for your desired platform (e.g. `osx` for macOS) from the [openFrameworks download page](https://openframeworks.cc/download/) and unzip it. You should see a folder like `of_v0.12.0_platform_release/` (e.g. `of_v0.12.0_osx_release/` for macOS).
