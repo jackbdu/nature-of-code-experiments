@@ -26,6 +26,8 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 
 ## Experiment 03: Windows
 
+[ [Source Code](https://github.com/jackbdu/nature-of-code-experiments/tree/main/03-windows/src) ]
+
 | ![](assets/20250206-daily-experiment-window-bouncing-around-1080p-frame-1.png)     | ![](assets/20250207-daily-experiment-bouncing-window-with-gravity-1080p-frame-5.png) | ![](assets/20250208-daily-experiment-bouncing-window-with-trace-1080p-frame-3.png)    |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
 | [02/06/2025](https://www.instagram.com/p/DFzPxnZsLVy)                              | [02/07/2025](https://www.instagram.com/p/DF0nXzbxmJd/)                               | [02/08/2025](https://www.instagram.com/p/DF2HbmKx9lN/)                                |
