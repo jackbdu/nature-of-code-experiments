@@ -128,7 +128,7 @@ void ofApp::updateCurrentWindow() {
   const float maxX = ofGetScreenWidth() - ofGetWindowWidth() - windowRight -
                      screenPaddingRight;
   const float minY = windowTop + screenPaddingTop;
-  const float maxY = ofGetScreenHeight() - ofGetWindowHeight() - windowRight -
+  const float maxY = ofGetScreenHeight() - ofGetWindowHeight() - windowBottom -
                      screenPaddingBottom;
   const float x = ofMap(bodies[windowIndex].position.x, 0, 1, minX, maxX);
   const float y = ofMap(bodies[windowIndex].position.y, 0, 1, minY, maxY);
