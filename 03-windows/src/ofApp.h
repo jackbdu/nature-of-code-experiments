@@ -44,7 +44,6 @@ public:
 
   // OFAPP.CPP
 
-  int windowTitleHeight;
   int bodiesNum;
   int windowTop;
   int windowBottom;
