@@ -40,7 +40,7 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 
 | ![](assets/20250215-daily-experiment-springy-window-1080p-frame-4.png) | ![](assets/20250216-daily-experiment-springy-window-visualized-1080p-frame-5.png) | ![](assets/20250217-daily-experiment-springy-window-with-trailing-visual-1080p-frame-2.png) |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [02/15/2025](https://www.instagram.com/p/DGKsRSquqq0/)                 | [02/16/2025](https://www.instagram.com/p/DGMDSBhR22f/)                            | [02/17/2025]()                                                                              |
+| [02/15/2025](https://www.instagram.com/p/DGKsRSquqq0/)                 | [02/16/2025](https://www.instagram.com/p/DGMDSBhR22f/)                            | [02/17/2025](https://www.instagram.com/p/DGM_BOKsSyq/)                                      |
 
 ## How to Run openFrameworks Sketches
 
