@@ -34,6 +34,14 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 | ![](assets/20250209-daily-experiment-window-attracted-to-cursor-1080p-frame-4.png) | ![](assets/20250210-daily-experiment-two-bodies-trailing-windows-1080p-frame-3.png)  | ![](assets/20250211-daily-experiment-three-bodies-trailing-windows-1080p-frame-5.png) |
 | [02/09/2025](https://www.instagram.com/p/DF4WiEhs_yw/)                             | [02/10/2025](https://www.instagram.com/p/DF6iVx5MUPm/)                               | [02/11/2025](https://www.instagram.com/p/DF8VawWR6Nu/)                                |
 
+## Experiment 04: Spring
+
+[ [Source Code](https://github.com/jackbdu/nature-of-code-experiments/tree/main/04-spring/src) ]
+
+| ![](assets/20250215-daily-experiment-springy-window-1080p-frame-4.png) | ![](assets/20250216-daily-experiment-springy-window-visualized-1080p-frame-5.png) | ![](assets/20250217-daily-experiment-springy-window-with-trailing-visual-1080p-frame-2.png) |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [02/15/2025](https://www.instagram.com/p/DGKsRSquqq0/)                 | [02/16/2025](https://www.instagram.com/p/DGMDSBhR22f/)                            | [02/17/2025]()                                                                              |
+
 ## How to Run openFrameworks Sketches
 
 1. Download openFrameworks v0.12.0 for your desired platform (e.g. `osx` for macOS) from the [openFrameworks download page](https://openframeworks.cc/download/) and unzip it. You should see a folder like `of_v0.12.0_platform_release/` (e.g. `of_v0.12.0_osx_release/` for macOS).
