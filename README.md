@@ -42,6 +42,12 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | [02/15/2025](https://www.instagram.com/p/DGKsRSquqq0/)                 | [02/16/2025](https://www.instagram.com/p/DGMDSBhR22f/)                            | [02/17/2025](https://www.instagram.com/p/DGM_BOKsSyq/)                                      |
 
+## Experiment 05: Particles
+
+| ![](assets/20250224-daily-experiment-glowing-particles-1080p-frame-2.png) | ![](assets/20250225-daily-experiment-blinking-particles-1080p-frame-4.png) | ![](assets/20250226-daily-experiment-colorful-particles-1080p-frame-4.png) |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [02/24/2025](https://www.instagram.com/p/DGhHe69MOUn/)                    | [02/25/2025](https://www.instagram.com/p/DGiIdbyxff4/)                     | [02/26/2025](https://www.instagram.com/p/DGkeiZfx4vN/)                     |
+
 ## How to Run openFrameworks Sketches
 
 1. Download openFrameworks v0.12.0 for your desired platform (e.g. `osx` for macOS) from the [openFrameworks download page](https://openframeworks.cc/download/) and unzip it. You should see a folder like `of_v0.12.0_platform_release/` (e.g. `of_v0.12.0_osx_release/` for macOS).
