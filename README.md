@@ -44,6 +44,8 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 
 ## Experiment 05: Particles
 
+[ [Source Code](https://github.com/jackbdu/nature-of-code-experiments/tree/main/05-particles/src) ]
+
 | ![](assets/20250224-daily-experiment-glowing-particles-1080p-frame-2.png) | ![](assets/20250225-daily-experiment-blinking-particles-1080p-frame-4.png) | ![](assets/20250226-daily-experiment-colorful-particles-1080p-frame-4.png) |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [02/24/2025](https://www.instagram.com/p/DGhHe69MOUn/)                    | [02/25/2025](https://www.instagram.com/p/DGiIdbyxff4/)                     | [02/26/2025](https://www.instagram.com/p/DGkeiZfx4vN/)                     |
