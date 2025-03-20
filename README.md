@@ -50,6 +50,12 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [02/24/2025](https://www.instagram.com/p/DGhHe69MOUn/)                    | [02/25/2025](https://www.instagram.com/p/DGiIdbyxff4/)                     | [02/26/2025](https://www.instagram.com/p/DGkeiZfx4vN/)                     |
 
+## Experiment 06: Fractals
+
+| ![](assets/20250317-daily-experiment-koch-curves-circular-1080p-frame-0000000.png) | ![](assets/20250318-daily-experiment-koch-curves-circular-animated-recursion-1080p-frame-0000162.png) | ![](assets/20250319-daily-experiment-koch-triangles-1080p-frame-0002046.png) |
+| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [03/17/2025](https://www.instagram.com/p/DHX9LbvOheE/)                             | [03/18/2025](https://www.instagram.com/p/DHZGk0iRQxv/)                                                | [03/19/2025](https://www.instagram.com/p/DHaeM22uBO5/)                       |
+
 ## How to Run openFrameworks Sketches
 
 1. Download openFrameworks v0.12.0 for your desired platform (e.g. `osx` for macOS) from the [openFrameworks download page](https://openframeworks.cc/download/) and unzip it. You should see a folder like `of_v0.12.0_platform_release/` (e.g. `of_v0.12.0_osx_release/` for macOS).
