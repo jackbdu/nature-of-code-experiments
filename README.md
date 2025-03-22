@@ -52,6 +52,8 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 
 ## Experiment 06: Fractals
 
+[ [Source Code](https://github.com/jackbdu/nature-of-code-experiments/tree/main/06-fractals/src) ]
+
 | ![](assets/20250317-daily-experiment-koch-curves-circular-1080p-frame-0000000.png) | ![](assets/20250318-daily-experiment-koch-curves-circular-animated-recursion-1080p-frame-0000162.png) | ![](assets/20250319-daily-experiment-koch-triangles-1080p-frame-0002046.png) |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [03/17/2025](https://www.instagram.com/p/DHX9LbvOheE/)                             | [03/18/2025](https://www.instagram.com/p/DHZGk0iRQxv/)                                                | [03/19/2025](https://www.instagram.com/p/DHaeM22uBO5/)                       |
