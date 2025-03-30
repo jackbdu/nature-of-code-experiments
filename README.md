@@ -60,8 +60,17 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 
 ## How to Run openFrameworks Sketches
 
-1. Download openFrameworks v0.12.0 for your desired platform (e.g. `osx` for macOS) from the [openFrameworks download page](https://openframeworks.cc/download/) and unzip it. You should see a folder like `of_v0.12.0_platform_release/` (e.g. `of_v0.12.0_osx_release/` for macOS).
-2. [Download my experiments repository](https://github.com/jackbdu/nature-of-code-experiments/archive/refs/heads/main.zip), unzip it, and place the extracted folder (`nature-of-code-experiments-main/`) into the `of_v0.12.0_platform_release/apps/` folder.
-3. Use the projectGenerator app in `of_v0.12.0_platform_release/projectGenerator/` to update each sketch folder (e.g. `01_brushstroke/`) before compiling and running it in your preferred IDE.
+1. Download openFrameworks v0.12.0 for your desired platform (e.g. `osx` for macOS) from the [openFrameworks download page](https://openframeworks.cc/download/) and unzip it. You should see a folder titled `of_v0.12.0_platform_release/` (e.g. `of_v0.12.0_osx_release/` for macOS).
+
+2. [Download this repository](https://github.com/jackbdu/nature-of-code-experiments/archive/refs/heads/main.zip), unzip it, and place the extracted folder (`nature-of-code-experiments-main/`) into the `of_v0.12.0_platform_release/apps/` folder.
+
+3. Launch the _projectGenerator_ app located in the `of_v0.12.0_platform_release/projectGenerator/` folder. Click the gear icon :gear: and check _Advanced options_.
+
+| ![](assets/project-generator-advanced-options-screenshot.png) | ![](assets/project-generator-update-multiple-screenshot.png) |
+| ------------------------------------------------------------- | ------------------------------------------------------------ |
+
+4. In the _projectGenerator_ app, go to the _update multiple_ tab. Under _Update path_, click the magnifying glass icon :mag: and open the repository folder (`nature-of-code-2024-openframeworks-main/`) from there, then Click the _Update multiple_ button.
+
+5. Finally, open this project in your preferred IDE to compile and run.
 
 _For additional guides, you can refer to the [openFrameworks learning page](https://openframeworks.cc/learning/)._
