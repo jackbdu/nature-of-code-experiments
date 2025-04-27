@@ -68,7 +68,7 @@ If you would like to run the openFrameworks sketches, see [instructions](#how-to
 
 | ![](assets/project-generator-advanced-options-screenshot.png) | ![](assets/project-generator-update-multiple-screenshot.png) |
 | ------------------------------------------------------------- | ------------------------------------------------------------ |
-|                                                               |                                                              |
+| Step 3                                                        | Step 4                                                       |
 
 4. In the _projectGenerator_ app, go to the _update multiple_ tab. Under _Update path_, click the magnifying glass icon :mag: and open the repository folder (`nature-of-code-2024-openframeworks-main/`) from there, then Click the _Update multiple_ button.
 
